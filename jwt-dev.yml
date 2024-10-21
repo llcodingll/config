@@ -1,0 +1,3 @@
+jwt:
+  secret: secret-key-dev
+  expiration: 31536000000
